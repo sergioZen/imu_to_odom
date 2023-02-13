@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+   <node pkg="imu_to_odom" name="imu_to_odom_node" type="imu_to_odom_node" output="screen"/> 
+
+</launch>
